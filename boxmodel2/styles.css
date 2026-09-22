@@ -1,0 +1,55 @@
+/* box model 2 */
+
+/* main artwork size */
+.artwork {
+    width: 700px;
+    height: 900px;
+    margin: 20px auto;
+}
+
+/* blue section */
+.blue {
+    height: 280px;
+    background-color: lightblue;
+    position: relative;
+}
+
+/* purple section */
+.purple {
+    height: 180px;
+    background-color: #62518a;
+}
+
+/* yellow secton */
+.yellow {
+    height: 180px;
+    background-color: #fff58a;
+}
+
+/* orange section */
+.orange {
+    height: 260px;
+    background-color: #eaa05b;
+    position: relative;
+}
+
+/* small box on top */
+.smallbox1 {
+    width: 120px;
+    height: 100px;
+    background-color: #c9aa67;
+    position: absolute;
+    bottom: 0;
+    left: 290px;
+}
+
+
+/* bottom smal box */
+.smallbox2 {
+    width: 120px;
+    height: 100px;
+    background-color: #b9a06a;
+    position: absolute;
+    top: 0;
+    left: 290px;
+}

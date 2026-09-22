@@ -1,0 +1,45 @@
+/* box model 1 */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #344957;
+    margin: 0;
+}
+
+.artwork {
+    width: 750px;
+    height: 735px;
+    background-color: #eeeae3;
+    margin: 20px auto;
+    padding: 60px;
+}
+
+.box1 {
+    width: 100%;
+    height: 100%;
+    background-color: #f9b900;
+    padding: 75px 60px;
+}
+
+.box2 {
+    width: 100%;
+    height: 100%;
+    background-color: #efb34d;
+    padding: 90px 60px 30px 60px;
+}
+
+.box3 {
+width: 100%;
+height: 100%;
+background-color: #e99449;
+padding: 85px 60px 30px 60px;
+}
+
+.box4 {
+width: 100%;
+height: 100%;
+background-color: #f57508;
+}
